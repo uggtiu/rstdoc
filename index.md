@@ -1,5 +1,5 @@
 ---
-title: RST » Docs
+title: Home
 layout: home
 ---
 
